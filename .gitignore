@@ -1,0 +1,33 @@
+# Compiled source files
+*.o
+*.out
+*.obj
+*.exe
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# Editor directories and files
+.vscode/
+.idea/
+*.code-workspace
+.venv/
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build directories
+/build/
+bin/
+dist/
+
+# Logs
+*.log
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
