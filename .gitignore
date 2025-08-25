@@ -9,11 +9,12 @@
 *.bak
 *.swp
 
-# Editor directories and files
+# Editor files
 .vscode/
 .idea/
 *.code-workspace
 .venv/
+
 # OS generated files
 .DS_Store
 Thumbs.db
